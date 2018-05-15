@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HTPChat</string>
+    <string name="dang_xuat">Đăng xuất</string>
+    <string name="thong_tin_tai_khoan">Thông tin tài khoản</string>
+    <string name="Doi_mat_khau">Đổi mật khẩu</string>
 </resources>
